@@ -28,4 +28,14 @@ public class Application {
 	app.greet();
     }
 }
+<<<<<<< HEAD
 
+=======
+=======
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> bf60261e241886caaa1e2e36b8412f109e9c8d87
+>>>>>>> 73aadd810eb1beeece688c709e5c1e8c7dae3b3d
+>>>>>>> 4e0fc7d3c17857fad0e5893385f5d34bb05046c6
