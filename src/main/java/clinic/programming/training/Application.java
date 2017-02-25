@@ -27,4 +27,12 @@ public class Application {
 	Application app = new Application();
 	app.greet();
     }
+<<<<<<< HEAD
 }
+=======
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> bf60261e241886caaa1e2e36b8412f109e9c8d87
+>>>>>>> 73aadd810eb1beeece688c709e5c1e8c7dae3b3d
