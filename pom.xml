@@ -6,7 +6,7 @@
 		http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.prob4.product</groupId>
-  <artifactId>maven-quick-start</artifactId>
+  <artifactId>com.prob4.product</artifactId>
   <version>1.2</version>
 
 
