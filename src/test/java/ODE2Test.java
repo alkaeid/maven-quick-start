@@ -1,4 +1,4 @@
-package com.Prob4.product;
+package com.prob4.product;
 
 import static org.junit.Assert.*;
 
