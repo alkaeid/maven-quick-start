@@ -4,6 +4,12 @@ public class Prob4 {
 	 private static Double[] theXValues, theYValues, theTimeValues;
 	 private static double theNumTimeIntervals;
 	 public static void main(String args[]){
+		something();
+	        
+	 }
+	 
+	public static void something(){
+		 int i=0;
 	        Double xInitial = 500.00;
 	        Double yInitial = 3000.00;
 	        Double timeInitial = 0.00;
@@ -17,10 +23,16 @@ public class Prob4 {
 	        theXValues = rkSolver.getXValues();
 	        theYValues = rkSolver.getYValues();
 	        theTimeValues = rkSolver.getTimeValues();
-	 }
+//	        for(i=1; i<=30; i++){
+//	        	System.out.println(theYValues[i] + ", ");
+//	        }
+	}
 	 
-	 private void parse(){
-		 
-
-	 }
+	public Double[] getX(){
+		return theXValues;
+	}
+	
+	public Double[] getY(){
+		return theYValues;
+	}
 }
