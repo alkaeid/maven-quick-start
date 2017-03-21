@@ -23,6 +23,12 @@
     <version>4.12</version>
 	<scope>test</scope>
 </dependency>
+	<dependency>
+    <groupId>org.wildfly.swarm</groupId>
+    <artifactId>javafx</artifactId>
+    <version>2017.3.3</version>
+</dependency>
+
   </dependencies>
 
  
