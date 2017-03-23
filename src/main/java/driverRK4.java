@@ -45,7 +45,7 @@ public class driverRK4
 			fw.append(',');
 			fw.append("y value");
 			fw.append('\n');
-			for (int i=1;i<=theNumTimeIntervals+1;i++)
+			/*for (int i=1;i<=theNumTimeIntervals+1;i++)
 			{
 				fw.append(Double.toString(i));
 				fw.append(',');
@@ -60,7 +60,7 @@ public class driverRK4
 				System.out.print(" x" + i + ": " + theXValues[i]);
 				System.out.print(" y" + i + ": " + theYValues[i]);
 				System.out.print("\n");
-			}
+			}*/
 		} catch(Exception e){
 			e.printStackTrace();
 		
